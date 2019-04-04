@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+table#t01, tr, th, td{
+    border: 3px solid rgb(94, 91, 91);
+    border-collapse: collapse;
+    
+}
+table#t01{
+    width: 900px;
+    height: 500px;
+    background-color: #ffcc99;
+    
+}
+
+   
+
+  
+
